@@ -16,6 +16,7 @@ public class CustomerServiceImpl implements CustomerService{
 		customer.put(c.getId(), c);
 		System.out.println("add function called");
 		System.out.println("Amol");
+		System.out.println("generate the conflict");
 		return true;
 	}
 
