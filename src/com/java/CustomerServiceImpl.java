@@ -18,6 +18,7 @@ public class CustomerServiceImpl implements CustomerService{
 		System.out.println("afroz");
 		System.out.println("aforz1");
 		System.out.println("afroz2");
+		System.out.println("amol");
 		return true;
 	}
 
