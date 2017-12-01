@@ -9,4 +9,6 @@ public interface CustomerService {
 	public Customer getCustomer(int id);
 	
 	public Customer[] getAllCustomer();
+	
+	
 }
