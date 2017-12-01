@@ -14,6 +14,7 @@ public class CustomerServiceImpl implements CustomerService{
 			return false;
 		}
 		customer.put(c.getId(), c);
+		System.out.println("add function called");
 		return true;
 	}
 
