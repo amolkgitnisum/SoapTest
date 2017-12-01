@@ -17,6 +17,7 @@ public class CustomerServiceImpl implements CustomerService{
 		System.out.println("Object Added Successfully !!");
 		System.out.println("afroz");
 		System.out.println("aforz1");
+		System.out.println("amol");
 		return true;
 	}
 
